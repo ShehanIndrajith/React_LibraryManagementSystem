@@ -45,7 +45,7 @@ If you have any questions or feedback about this project, feel free to reach out
 - **Name**: Shehan Indrajith  
 - **GitHub**: [ShehanIndrajith](https://github.com/ShehanIndrajith)  
 - **Email**: [sbsindrajith2002@gmail.com](mailto:sbsindrajith2002@gmail.com)  
-- **LinkedIn**: [Shehan Indrajith](www.linkedin.com/in/shehan-indrajith-47b512216)  
+- **LinkedIn**: [Shehan Indrajith](https://www.linkedin.com/in/shehan-indrajith-47b512216/)  
 
 We welcome any contributions or suggestions to improve the project!
 
