@@ -8,7 +8,6 @@ A comprehensive Library Management System built with **React** and **PostgreSQL*
 
 - **User Management**: Add, update, delete, and search for users.
 - **Book Management**: Maintain a catalog of books with options to add, update, and delete entries.
-- **Search Functionality**: Efficient search for books and users using various criteria.
 - **Real-time Updates**: Reflect changes in the system instantly.
 - **Responsive Design**: Optimized for all devices, including mobile and desktop.
 - **Secure**: Implements secure login functionality using Node.js and PostgreSQL.
